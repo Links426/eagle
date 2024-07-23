@@ -4,6 +4,6 @@ export default defineConfig({
   themeConfig: {
     name: '',
   },
-  base: "/demo/eagle/",
-  publicPath: '/demo/eagle/'
+  base: "/eagle",
+  publicPath: '/eagle/'
 });
