@@ -17,9 +17,10 @@ group:
 
 ## 安装脚手架
 
+全局安装 eagle-cli
 ```shell
 
-npm install eagle
+npm install -g @tencent/eagle-cli
 
 ```
 

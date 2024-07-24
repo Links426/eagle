@@ -7,7 +7,7 @@ hero:
     - text: 立即上手
       link: /guide
     - text: 工蜂地址
-      link: https://git.woa.com/FE/dependency-analysis/dependency-analysis-vscode
+      link: https://git.woa.com/linksli/eagle
 features:
 
   - title: 拓展性

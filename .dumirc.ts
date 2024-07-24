@@ -5,5 +5,6 @@ export default defineConfig({
     name: '',
   },
   base: "/eagle",
-  publicPath: '/eagle/'
+  publicPath: '/eagle/',
+  exportStatic: {}
 });
